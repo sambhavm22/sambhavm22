@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sambhav Mehta</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambhavm22&label=Profile%20views&color=0e75b6&style=flat" alt="sambhavm22" /> </p>
 
 - 🔭 I’m currently working on **Machine learning Projects**
 
-- 🌱 I’m currently learning **Deep learning, NLP and Computer vision**
+- 🌱 I’m currently learning **NLP and Computer vision**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sambhavm22?tab=repositories](https://github.com/sambhavm22?tab=repositories)
 
-- 💬 Ask me about **Python, Machine Learning, Data Science, Web Scrapping**
+- 💬 Ask me about **Python, Machine Learning, Data Science, SQL, Tableau**
 
 - 📫 How to reach me **sambhavm22@gmail.com**
 
