@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sambhavm22?tab=repositories](https://github.com/sambhavm22?tab=repositories)
 
-- 💬 Ask me about **Python, Machine Learning, Data Science, SQL, Tableau**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Data Science, SQL, Tableau**
 
 - 📫 How to reach me **sambhavm22@gmail.com**
 
