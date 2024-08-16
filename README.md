@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Machine learning Projects**
 
-- 🌱 I’m currently learning **NLP and Computer vision**
+- 🌱 I’m currently learning **GenAI and LLMs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sambhavm22?tab=repositories](https://github.com/sambhavm22?tab=repositories)
 
