@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambhavm22&label=Profile%20views&color=0e75b6&style=flat" alt="sambhavm22" /> </p>
 
-- 🔭 I’m currently working on **Machine learning Projects**
+- 🔭 I’m currently working on **GenAI and LLMs**
 
-- 🌱 I’m currently learning **GenAI and LLMs**
+- 🌱 I’m currently learning **MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sambhavm22?tab=repositories](https://github.com/sambhavm22?tab=repositories)
 
